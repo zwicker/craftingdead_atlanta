@@ -155,3 +155,109 @@
 2015-03-30 20:23:08 [SEVERE] Reached end of stream
 2015-03-30 20:23:08 [INFO] /127.0.0.1:62822 lost connection
 2015-03-30 20:23:08 [INFO] /127.0.0.1:62867 lost connection
+2015-03-30 22:07:32 [INFO] Starting minecraft server version 1.5.2
+2015-03-30 22:07:32 [INFO] MinecraftForge v
+2015-03-30 22:07:32 [INFO] 7.8.1.738
+2015-03-30 22:07:32 [INFO]  Initialized
+
+2015-03-30 22:07:32 [INFO] Replaced 85 ore recipies
+2015-03-30 22:07:35 [INFO] [Crafting Dead] Pre-Load initialized!
+2015-03-30 22:07:35 [INFO] [CDC] Loaded Properties File!
+2015-03-30 22:07:39 [INFO] [Crafting Dead] Pre-Load complete!
+2015-03-30 22:07:39 [INFO] Loading properties
+2015-03-30 22:07:39 [INFO] Default game type: SURVIVAL
+2015-03-30 22:07:39 [INFO] Generating keypair
+2015-03-30 22:07:39 [INFO] Starting Minecraft server on *:25565
+2015-03-30 22:07:40 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-617 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2015-03-30 22:07:40 [INFO] Adding biome mapping 28 Zombie Forest at BiomeBase[28]
+2015-03-30 22:07:40 [INFO] Adding biome mapping 29 Zombie Desert at BiomeBase[29]
+2015-03-30 22:07:40 [INFO] Adding biome mapping 30 Zombie Plains at BiomeBase[30]
+2015-03-30 22:07:40 [INFO] Adding biome mapping 31 Zombie Snow at BiomeBase[31]
+2015-03-30 22:07:40 [INFO] Adding biome mapping 32 Zombie Wasteland at BiomeBase[32]
+2015-03-30 22:07:40 [INFO] [Crafting Dead] Main Loading initialized!
+2015-03-30 22:07:41 [INFO] [Crafting Dead] Main Loading complete!
+2015-03-30 22:07:41 [INFO] [Crafting Dead] Post Load initialized!
+2015-03-30 22:07:41 [INFO] [Crafting Dead] Post Load complete!
+2015-03-30 22:07:41 [INFO] Preparing level "world"
+2015-03-30 22:07:41 [INFO] Registered command debug with permission node vanilla.command.debug
+2015-03-30 22:07:41 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2015-03-30 22:07:41 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: -4837208292255547006)
+2015-03-30 22:07:42 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 344833705974549516)
+2015-03-30 22:07:42 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: -4837208292255547006)
+2015-03-30 22:07:42 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2015-03-30 22:07:42 [INFO] Done (1.629s)! For help, type "help" or "?"
+2015-03-30 22:07:42 [INFO] [Crafting Dead] FDSCompound: No file to load! Save Data first!
+2015-03-30 22:07:42 [INFO] 0
+2015-03-30 22:07:42 [INFO] [CDC] FDSCompound: Server Loaded
+2015-03-30 22:07:42 [INFO] Registered command cdhelp with permission node com.f3rullo14.cdc.common.commands.CommandHelp
+2015-03-30 22:07:42 [INFO] Registered command cdrestore with permission node com.f3rullo14.cdc.common.commands.CommandRestore
+2015-03-30 22:07:42 [INFO] Registered command rspawnadd with permission node com.f3rullo14.cdc.common.commands.CommandRspawnAdd
+2015-03-30 22:07:42 [INFO] Registered command rspawn with permission node com.f3rullo14.cdc.common.commands.CommandRspawn
+2015-03-30 22:07:42 [INFO] Registered command rspawnremove with permission node com.f3rullo14.cdc.common.commands.CommandRspawnRemove
+2015-03-30 22:07:42 [INFO] Registered command cdhumanity with permission node com.f3rullo14.cdc.common.commands.CommandHumanity
+2015-03-30 22:07:42 [INFO] Registered command cdbase-small with permission node com.f3rullo14.cdc.common.commands.CommandBaseSmall
+2015-03-30 22:07:42 [INFO] Registered command cdbase-medium with permission node com.f3rullo14.cdc.common.commands.CommandBaseMedium
+2015-03-30 22:07:42 [INFO] Registered command cdbase-large with permission node com.f3rullo14.cdc.common.commands.CommandBaseLarge
+2015-03-30 22:07:42 [INFO] Registered command cdSupplyDrop with permission node com.f3rullo14.cdc.common.commands.CommandSupplyDrop
+2015-03-30 22:07:42 [INFO] Registered command cdSupplyDropAdd with permission node com.f3rullo14.cdc.common.commands.CommandSDAddSpawn
+2015-03-30 22:07:42 [INFO] Registered command cdSupplyDropRemove with permission node com.f3rullo14.cdc.common.commands.CommandSDRemove
+2015-03-30 22:07:42 [INFO] Registered command cdClearLag with permission node com.f3rullo14.cdc.common.commands.CommandClearLag
+2015-03-30 22:13:03 [INFO] zwicker_[/1.133.95.208:48750] logged in with entity id 1 at ([world] -226.5, 79.0, 256.5)
+2015-03-30 22:13:34 [INFO] CONSOLE: Opped zwicker_[m
+2015-03-30 22:13:52 [INFO] zwicker_ issued server command: /gamemode zwicker_ 1
+2015-03-30 22:14:10 [INFO] zwicker_ issued server command: /gamemode 1 zwicker_
+2015-03-30 22:14:10 [INFO] zwicker_: Set own game mode to CREATIVE mode[m
+2015-03-30 22:15:47 [INFO] Unknown command. Type "help" for help.[m
+2015-03-30 22:16:54 [INFO] Starting minecraft server version 1.5.2
+2015-03-30 22:16:54 [INFO] MinecraftForge v
+2015-03-30 22:16:54 [INFO] 7.8.1.738
+2015-03-30 22:16:54 [INFO]  Initialized
+
+2015-03-30 22:16:54 [INFO] Replaced 85 ore recipies
+2015-03-30 22:16:57 [INFO] [Crafting Dead] Pre-Load initialized!
+2015-03-30 22:16:57 [INFO] [CDC] Loaded Properties File!
+2015-03-30 22:17:01 [INFO] [Crafting Dead] Pre-Load complete!
+2015-03-30 22:17:01 [INFO] Loading properties
+2015-03-30 22:17:01 [INFO] Default game type: SURVIVAL
+2015-03-30 22:17:01 [INFO] Generating keypair
+2015-03-30 22:17:01 [INFO] Starting Minecraft server on *:25565
+2015-03-30 22:17:02 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-617 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2015-03-30 22:17:02 [INFO] Adding biome mapping 28 Zombie Forest at BiomeBase[28]
+2015-03-30 22:17:02 [INFO] Adding biome mapping 29 Zombie Desert at BiomeBase[29]
+2015-03-30 22:17:02 [INFO] Adding biome mapping 30 Zombie Plains at BiomeBase[30]
+2015-03-30 22:17:02 [INFO] Adding biome mapping 31 Zombie Snow at BiomeBase[31]
+2015-03-30 22:17:02 [INFO] Adding biome mapping 32 Zombie Wasteland at BiomeBase[32]
+2015-03-30 22:17:03 [INFO] [Crafting Dead] Main Loading initialized!
+2015-03-30 22:17:03 [INFO] [Crafting Dead] Main Loading complete!
+2015-03-30 22:17:03 [INFO] [Crafting Dead] Post Load initialized!
+2015-03-30 22:17:03 [INFO] [Crafting Dead] Post Load complete!
+2015-03-30 22:17:03 [INFO] Preparing level "world"
+2015-03-30 22:17:03 [INFO] Registered command debug with permission node vanilla.command.debug
+2015-03-30 22:17:03 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2015-03-30 22:17:04 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: -9020418639794869376)
+2015-03-30 22:17:05 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 344833705974549516)
+2015-03-30 22:17:05 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: -9020418639794869376)
+2015-03-30 22:17:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2015-03-30 22:17:05 [INFO] Done (1.485s)! For help, type "help" or "?"
+2015-03-30 22:17:05 [INFO] [Crafting Dead] FDSCompound: No file to load! Save Data first!
+2015-03-30 22:17:05 [INFO] 0
+2015-03-30 22:17:05 [INFO] [CDC] FDSCompound: Server Loaded
+2015-03-30 22:17:05 [INFO] Registered command cdhelp with permission node com.f3rullo14.cdc.common.commands.CommandHelp
+2015-03-30 22:17:05 [INFO] Registered command cdrestore with permission node com.f3rullo14.cdc.common.commands.CommandRestore
+2015-03-30 22:17:05 [INFO] Registered command rspawnadd with permission node com.f3rullo14.cdc.common.commands.CommandRspawnAdd
+2015-03-30 22:17:05 [INFO] Registered command rspawn with permission node com.f3rullo14.cdc.common.commands.CommandRspawn
+2015-03-30 22:17:05 [INFO] Registered command rspawnremove with permission node com.f3rullo14.cdc.common.commands.CommandRspawnRemove
+2015-03-30 22:17:05 [INFO] Registered command cdhumanity with permission node com.f3rullo14.cdc.common.commands.CommandHumanity
+2015-03-30 22:17:05 [INFO] Registered command cdbase-small with permission node com.f3rullo14.cdc.common.commands.CommandBaseSmall
+2015-03-30 22:17:05 [INFO] Registered command cdbase-medium with permission node com.f3rullo14.cdc.common.commands.CommandBaseMedium
+2015-03-30 22:17:05 [INFO] Registered command cdbase-large with permission node com.f3rullo14.cdc.common.commands.CommandBaseLarge
+2015-03-30 22:17:05 [INFO] Registered command cdSupplyDrop with permission node com.f3rullo14.cdc.common.commands.CommandSupplyDrop
+2015-03-30 22:17:05 [INFO] Registered command cdSupplyDropAdd with permission node com.f3rullo14.cdc.common.commands.CommandSDAddSpawn
+2015-03-30 22:17:05 [INFO] Registered command cdSupplyDropRemove with permission node com.f3rullo14.cdc.common.commands.CommandSDRemove
+2015-03-30 22:17:05 [INFO] Registered command cdClearLag with permission node com.f3rullo14.cdc.common.commands.CommandClearLag
+2015-03-30 22:17:26 [INFO] zwicker_[/1.133.95.208:46083] logged in with entity id 1 at ([world] -271.0950034083461, 119.36860436768399, 184.3606912756564)
+2015-03-30 22:17:46 [INFO] zwicker_ issued server command: /help
+2015-03-30 22:17:55 [INFO] zwicker_ issued server command: /kill zwicker_
+2015-03-30 22:17:55 [INFO] zwicker_ died
+2015-03-30 22:18:47 [INFO] zwicker_ lost connection: disconnect.quitting
+2015-03-30 22:18:47 [INFO] Connection reset
