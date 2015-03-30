@@ -1,0 +1,157 @@
+2015-03-29 22:46:30 [INFO] Starting minecraft server version 1.5.2
+2015-03-29 22:46:30 [INFO] MinecraftForge v
+2015-03-29 22:46:30 [INFO] 7.8.1.738
+2015-03-29 22:46:30 [INFO]  Initialized
+
+2015-03-29 22:46:30 [INFO] Replaced 85 ore recipies
+2015-03-29 22:46:31 [INFO] [Crafting Dead] Pre-Load initialized!
+2015-03-29 22:46:31 [INFO] [CDC] Loaded Properties File!
+2015-03-29 22:46:39 [INFO] [Crafting Dead] Pre-Load complete!
+2015-03-29 22:46:39 [INFO] Loading properties
+2015-03-29 22:46:39 [WARNING] server.properties does not exist
+2015-03-29 22:46:39 [INFO] Generating new properties file
+2015-03-29 22:46:39 [INFO] Default game type: SURVIVAL
+2015-03-29 22:46:39 [INFO] Generating keypair
+2015-03-29 22:46:40 [INFO] Starting Minecraft server on *:25565
+2015-03-29 22:46:40 [INFO] This server is running CraftBukkit version git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-617 (MC: 1.5.2) (Implementing API version 1.5.2-R1.1-SNAPSHOT)
+2015-03-29 22:46:40 [INFO] Adding biome mapping 28 Zombie Forest at BiomeBase[28]
+2015-03-29 22:46:40 [INFO] Adding biome mapping 29 Zombie Desert at BiomeBase[29]
+2015-03-29 22:46:40 [INFO] Adding biome mapping 30 Zombie Plains at BiomeBase[30]
+2015-03-29 22:46:40 [INFO] Adding biome mapping 31 Zombie Snow at BiomeBase[31]
+2015-03-29 22:46:40 [INFO] Adding biome mapping 32 Zombie Wasteland at BiomeBase[32]
+2015-03-29 22:46:40 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2015-03-29 22:46:40 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2015-03-29 22:46:40 [INFO] [Crafting Dead] Main Loading initialized!
+2015-03-29 22:46:40 [INFO] [Crafting Dead] Main Loading complete!
+2015-03-29 22:46:40 [INFO] [Crafting Dead] Post Load initialized!
+2015-03-29 22:46:40 [INFO] [Crafting Dead] Post Load complete!
+2015-03-29 22:46:40 [INFO] Preparing level "world"
+2015-03-29 22:46:40 [INFO] Registered command debug with permission node vanilla.command.debug
+2015-03-29 22:46:40 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2015-03-29 22:46:41 [WARNING] Unable to find spawn biome
+2015-03-29 22:46:44 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 344833705974549516)
+2015-03-29 22:46:44 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 344833705974549516)
+2015-03-29 22:46:44 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 344833705974549516)
+2015-03-29 22:46:45 [INFO] Done (4.209s)! For help, type "help" or "?"
+2015-03-29 22:46:45 [INFO] [Crafting Dead] FDSCompound: No file to load! Save Data first!
+2015-03-29 22:46:45 [INFO] 0
+2015-03-29 22:46:45 [INFO] [CDC] FDSCompound: Server Loaded
+2015-03-29 22:46:45 [INFO] Registered command cdhelp with permission node com.f3rullo14.cdc.common.commands.CommandHelp
+2015-03-29 22:46:45 [INFO] Registered command cdrestore with permission node com.f3rullo14.cdc.common.commands.CommandRestore
+2015-03-29 22:46:45 [INFO] Registered command rspawnadd with permission node com.f3rullo14.cdc.common.commands.CommandRspawnAdd
+2015-03-29 22:46:45 [INFO] Registered command rspawn with permission node com.f3rullo14.cdc.common.commands.CommandRspawn
+2015-03-29 22:46:45 [INFO] Registered command rspawnremove with permission node com.f3rullo14.cdc.common.commands.CommandRspawnRemove
+2015-03-29 22:46:45 [INFO] Registered command cdhumanity with permission node com.f3rullo14.cdc.common.commands.CommandHumanity
+2015-03-29 22:46:45 [INFO] Registered command cdbase-small with permission node com.f3rullo14.cdc.common.commands.CommandBaseSmall
+2015-03-29 22:46:45 [INFO] Registered command cdbase-medium with permission node com.f3rullo14.cdc.common.commands.CommandBaseMedium
+2015-03-29 22:46:45 [INFO] Registered command cdbase-large with permission node com.f3rullo14.cdc.common.commands.CommandBaseLarge
+2015-03-29 22:46:45 [INFO] Registered command cdSupplyDrop with permission node com.f3rullo14.cdc.common.commands.CommandSupplyDrop
+2015-03-29 22:46:45 [INFO] Registered command cdSupplyDropAdd with permission node com.f3rullo14.cdc.common.commands.CommandSDAddSpawn
+2015-03-29 22:46:45 [INFO] Registered command cdSupplyDropRemove with permission node com.f3rullo14.cdc.common.commands.CommandSDRemove
+2015-03-29 22:46:45 [INFO] Registered command cdClearLag with permission node com.f3rullo14.cdc.common.commands.CommandClearLag
+2015-03-30 06:29:02 [SEVERE] The server has stopped responding!
+2015-03-30 06:29:04 [SEVERE] Please report this to http://www.mcportcentral.co.za/
+2015-03-30 06:29:04 [SEVERE] Be sure to include ALL relevant console errors and Minecraft crash reports
+2015-03-30 06:29:04 [SEVERE] MCPC+ version: git-MCPC-Plus-jenkins-MCPC-Plus-Legacy-617 (MC: 1.5.2)
+2015-03-30 06:29:04 [SEVERE] Current Thread State:
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: process reaper
+2015-03-30 06:29:06 [SEVERE] 	PID: 26 | Suspended: false | Native: false | State: TIMED_WAITING
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		sun.misc.Unsafe.park(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:226)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:359)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:942)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1068)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+2015-03-30 06:29:06 [SEVERE] 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Thread.run(Thread.java:745)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: File IO Thread
+2015-03-30 06:29:06 [SEVERE] 	PID: 25 | Suspended: false | Native: false | State: TIMED_WAITING
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Thread.sleep(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:43)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:22)
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Thread.run(Thread.java:745)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Spigot Metrics Thread
+2015-03-30 06:29:06 [SEVERE] 	PID: 23 | Suspended: false | Native: false | State: TIMED_WAITING
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Object.wait(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		java.util.TimerThread.mainLoop(Timer.java:552)
+2015-03-30 06:29:06 [SEVERE] 		java.util.TimerThread.run(Timer.java:505)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Spigot Watchdog Thread
+2015-03-30 06:29:06 [SEVERE] 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:446)
+2015-03-30 06:29:06 [SEVERE] 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:54)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Listen thread
+2015-03-30 06:29:06 [SEVERE] 	PID: 21 | Suspended: false | Native: true | State: RUNNABLE
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.net.PlainSocketImpl.socketAccept(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
+2015-03-30 06:29:06 [SEVERE] 		java.net.ServerSocket.implAccept(ServerSocket.java:530)
+2015-03-30 06:29:06 [SEVERE] 		java.net.ServerSocket.accept(ServerSocket.java:498)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.server.ServerListenThread.run(ServerListenThread.java:82)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Thread-6
+2015-03-30 06:29:06 [SEVERE] 	PID: 17 | Suspended: false | Native: false | State: RUNNABLE
+2015-03-30 06:29:06 [SEVERE] 	Thread is waiting on monitor(s):
+2015-03-30 06:29:06 [SEVERE] 		Locked on:java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2015-03-30 06:29:06 [SEVERE] 		Locked on:java.io.PrintStream.write(PrintStream.java:482)
+2015-03-30 06:29:06 [SEVERE] 		Locked on:sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.io.FileOutputStream.writeBytes(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		java.io.FileOutputStream.write(FileOutputStream.java:345)
+2015-03-30 06:29:06 [SEVERE] 		java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+2015-03-30 06:29:06 [SEVERE] 		java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+2015-03-30 06:29:06 [SEVERE] 		java.io.PrintStream.write(PrintStream.java:482)
+2015-03-30 06:29:06 [SEVERE] 		sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+2015-03-30 06:29:06 [SEVERE] 		sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:291)
+2015-03-30 06:29:06 [SEVERE] 		sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:295)
+2015-03-30 06:29:06 [SEVERE] 		sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
+2015-03-30 06:29:06 [SEVERE] 		java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229)
+2015-03-30 06:29:06 [SEVERE] 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1148)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.server.dedicated.DedicatedServerCommandThread.run(DedicatedServerCommandThread.java:37)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: DestroyJavaVM
+2015-03-30 06:29:06 [SEVERE] 	PID: 16 | Suspended: false | Native: false | State: RUNNABLE
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Server thread
+2015-03-30 06:29:06 [SEVERE] 	PID: 14 | Suspended: false | Native: false | State: TIMED_WAITING
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Thread.sleep(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.server.MinecraftServer.run(MinecraftServer.java:587)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.server.ThreadMinecraftServer.run(SourceFile:573)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Thread-5
+2015-03-30 06:29:06 [SEVERE] 	PID: 15 | Suspended: false | Native: false | State: TIMED_WAITING
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Thread.sleep(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		net.minecraft.server.dedicated.DedicatedServerSleepThread.run(SourceFile:60)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Snooper Timer
+2015-03-30 06:29:06 [SEVERE] 	PID: 10 | Suspended: false | Native: false | State: TIMED_WAITING
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] 		java.lang.Object.wait(Native Method)
+2015-03-30 06:29:06 [SEVERE] 		java.util.TimerThread.mainLoop(Timer.java:552)
+2015-03-30 06:29:06 [SEVERE] 		java.util.TimerThread.run(Timer.java:505)
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 06:29:06 [SEVERE] Current Thread: Signal Dispatcher
+2015-03-30 06:29:06 [SEVERE] 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+2015-03-30 06:29:06 [SEVERE] 	Stack:
+2015-03-30 06:29:06 [SEVERE] ------------------------------
+2015-03-30 20:10:31 [SEVERE] Reached end of stream
+2015-03-30 20:10:31 [INFO] /127.0.0.1:61794 lost connection
+2015-03-30 20:10:31 [INFO] /127.0.0.1:61886 lost connection
+2015-03-30 20:16:08 [SEVERE] Reached end of stream
+2015-03-30 20:16:08 [INFO] /127.0.0.1:62330 lost connection
+2015-03-30 20:23:08 [SEVERE] Reached end of stream
+2015-03-30 20:23:08 [INFO] /127.0.0.1:62822 lost connection
+2015-03-30 20:23:08 [INFO] /127.0.0.1:62867 lost connection
