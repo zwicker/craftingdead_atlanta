@@ -1,317 +1,320 @@
-2015-03-30 22:16:46 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
-2015-03-30 22:16:46 [INFO] [ForgeModLoader] Java is OpenJDK 64-Bit Server VM, version 1.7.0_75, running on Linux:amd64:3.16.0-31-generic, installed at /usr/lib/jvm/java-7-openjdk-amd64/jre
-2015-03-30 22:16:46 [FINE] [ForgeModLoader] Java classpath at launch is craftingdead.jar
-2015-03-30 22:16:46 [FINE] [ForgeModLoader] Java library path at launch is /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
-2015-03-30 22:16:46 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
-2015-03-30 22:16:54 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
-2015-03-30 22:16:54 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
-2015-03-30 22:16:54 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
-2015-03-30 22:16:54 [INFO] [ForgeModLoader] Reading custom logging properties from /home/emmet_mallpup_com/craftingdead_atlanta/config/logging.properties
-2015-03-30 22:16:54 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
-2015-03-30 22:16:54 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
-2015-03-30 22:16:54 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
-2015-03-30 22:16:54 [FINE] [ForgeModLoader] Found a minecraft related file at /home/emmet_mallpup_com/craftingdead_atlanta/craftingdead.jar, examining for mod candidates
-2015-03-30 22:16:54 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/argo-small-3.2.jar
-2015-03-30 22:16:54 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/guava-14.0-rc3.jar
-2015-03-30 22:16:54 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/asm-all-4.1.jar
-2015-03-30 22:16:54 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/bcprov-jdk15on-148.jar
-2015-03-30 22:16:54 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/deobfuscation_data_1.5.2.zip
-2015-03-30 22:16:54 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/scala-library.jar
-2015-03-30 22:16:54 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
-2015-03-30 22:16:54 [INFO] [ForgeModLoader] Searching /home/emmet_mallpup_com/craftingdead_atlanta/mods for mods
-2015-03-30 22:16:54 [FINE] [ForgeModLoader] Examining file craftingdead.jar for potential mods
-2015-03-30 22:16:54 [FINE] [ForgeModLoader] The mod container craftingdead.jar appears to be missing an mcmod.info file
-2015-03-30 22:16:56 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.f3rullo14.cdc.CDCure
-2015-03-30 22:16:56 [FINEST] [CDC] Parsed dependency info : [] [] []
-2015-03-30 22:16:56 [INFO] [ForgeModLoader] Forge Mod Loader has identified 4 mods to load
-2015-03-30 22:16:56 [FINER] [ForgeModLoader] Received a system property request ''
-2015-03-30 22:16:56 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
-2015-03-30 22:16:56 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
-2015-03-30 22:16:56 [FINE] [ForgeModLoader] Reloading logging properties from /home/emmet_mallpup_com/craftingdead_atlanta/config/logging.properties
-2015-03-30 22:16:56 [FINE] [ForgeModLoader] Reloaded logging properties
-2015-03-30 22:16:56 [FINE] [mcp] Mod Logging channel mcp configured at default level.
-2015-03-30 22:16:56 [INFO] [mcp] Activating mod mcp
-2015-03-30 22:16:56 [FINE] [FML] Mod Logging channel FML configured at default level.
-2015-03-30 22:16:56 [INFO] [FML] Activating mod FML
-2015-03-30 22:16:56 [FINE] [Forge] Mod Logging channel Forge configured at default level.
-2015-03-30 22:16:56 [INFO] [Forge] Activating mod Forge
-2015-03-30 22:16:56 [FINE] [CDC] Enabling mod CDC
-2015-03-30 22:16:56 [FINE] [CDC] Mod Logging channel CDC configured at default level.
-2015-03-30 22:16:56 [INFO] [CDC] Activating mod CDC
-2015-03-30 22:16:56 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
-2015-03-30 22:16:56 [FINER] [ForgeModLoader] All mod requirements are satisfied
-2015-03-30 22:16:56 [FINER] [ForgeModLoader] Sorting mods into an ordered list
-2015-03-30 22:16:56 [FINER] [ForgeModLoader] Mod sorting completed successfully
-2015-03-30 22:16:56 [FINE] [ForgeModLoader] Mod sorting data
-2015-03-30 22:16:56 [FINE] [ForgeModLoader] 	CDC(Crafting Dead:2.0.2): craftingdead.jar ()
-2015-03-30 22:16:56 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
-2015-03-30 22:16:56 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
-2015-03-30 22:16:56 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
-2015-03-30 22:16:56 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
-2015-03-30 22:16:56 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
-2015-03-30 22:16:56 [INFO] [ForgeModLoader] Registering Forge Packet Handler
-2015-03-30 22:16:56 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
-2015-03-30 22:16:56 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
-2015-03-30 22:16:57 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
-2015-03-30 22:16:57 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
-2015-03-30 22:16:57 [FINEST] [CDC] Sending event FMLConstructionEvent to mod CDC
-2015-03-30 22:16:57 [FINEST] [ForgeModLoader] Testing mod CDC to verify it accepts its own version in a remote connection
-2015-03-30 22:16:57 [FINEST] [ForgeModLoader] The mod CDC accepts its own version (2.0.2)
-2015-03-30 22:16:57 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CDC
-2015-03-30 22:16:57 [FINEST] [CDC] Sent event FMLConstructionEvent to mod CDC
-2015-03-30 22:16:57 [FINE] [ForgeModLoader] Mod signature data
-2015-03-30 22:16:57 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
-2015-03-30 22:16:57 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
-2015-03-30 22:16:57 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
-2015-03-30 22:16:57 [FINE] [ForgeModLoader] 	CDC(Crafting Dead:2.0.2): craftingdead.jar (NO VALID CERTIFICATE FOUND)
-2015-03-30 22:16:57 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
-2015-03-30 22:16:57 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
-2015-03-30 22:16:57 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
-2015-03-30 22:16:57 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
-2015-03-30 22:16:57 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
-2015-03-30 22:16:57 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
-2015-03-30 22:16:57 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
-2015-03-30 22:16:57 [FINEST] [CDC] Sending event FMLPreInitializationEvent to mod CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7756) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7757) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7758) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7759) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7760) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7761) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7762) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7763) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7764) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7765) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7766) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemWireCutter(7767) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7768) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCanOpener(7769) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7770) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemKitBarbedWire(7786) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8256) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8257) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8258) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8259) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8260) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8261) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8262) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8263) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8266) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8267) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8268) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8269) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8270) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8271) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8272) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8273) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8274) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8275) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8276) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8277) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8278) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8279) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8280) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8356) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8357) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8358) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8359) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8360) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8361) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8362) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8363) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8364) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8365) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8366) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8367) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8368) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8460) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8461) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8462) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8463) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemHandcuffs(8464) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemHandcuffsKey(8465) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8466) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8467) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8468) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8469) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8470) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGrenade(8471) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8472) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8473) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8474) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBloodbagFull(8476) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBloodbag(8477) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBandage(8478) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMedpack(8479) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMorphine(8480) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMorphine(8481) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8482) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemDirtRag(8483) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBandage(8484) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8486) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8487) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8488) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8489) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8496) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8497) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8498) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8499) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8506) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8507) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8508) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8509) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemVest(8526) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemVest(8527) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemVest(8528) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8556) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8557) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCanteenEmpty(8558) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCanteen(8560) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8561) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8562) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8563) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8564) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8565) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8566) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8567) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8568) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8569) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8570) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8571) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8572) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8596) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8597) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8598) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8599) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8600) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8601) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8602) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8603) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8604) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8605) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8606) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8607) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8608) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8609) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8610) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8611) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8612) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8613) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8614) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8656) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8657) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8658) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8659) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8660) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8661) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8662) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8663) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8668) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8669) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8670) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8671) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8672) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8673) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8674) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8675) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8676) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8677) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8678) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8679) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemClothes(8756) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemClothes(8757) owned by CDC
-2015-03-30 22:17:00 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemClothes(8758) owned by CDC
-2015-03-30 22:17:01 [FINEST] [CDC] Sent event FMLPreInitializationEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [CDC] Sending event FMLInitializationEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity grounditem as CDC.grounditem
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity corpse as CDC.corpse
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity bullet as CDC.bullet
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity supplydrop as CDC.supplydrop
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity grenade as CDC.grenade
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity vehiclebike as CDC.vehiclebike
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1000) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1001) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1002) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1003) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1010) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1011) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1004) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1005) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1006) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1007) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1012) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1013) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1008) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1020) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1025) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1026) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1030) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1031) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1032) owned by CDC
-2015-03-30 22:17:03 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.blocks.ItemCDBlock(159) owned by CDC
-2015-03-30 22:17:03 [FINEST] [CDC] Sent event FMLInitializationEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
-2015-03-30 22:17:03 [FINEST] [mcp] Sending event IMCEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [mcp] Sent event IMCEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
-2015-03-30 22:17:03 [FINEST] [FML] Sending event IMCEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [FML] Sent event IMCEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
-2015-03-30 22:17:03 [FINEST] [Forge] Sending event IMCEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [Forge] Sent event IMCEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CDC
-2015-03-30 22:17:03 [FINEST] [CDC] Sending event IMCEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [CDC] Sent event IMCEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [CDC] Sending event FMLPostInitializationEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [CDC] Sent event FMLPostInitializationEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [CDC] Sending event FMLLoadCompleteEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [CDC] Sent event FMLLoadCompleteEvent to mod CDC
-2015-03-30 22:17:03 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 4 mods
-2015-03-30 22:17:03 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
-2015-03-30 22:17:03 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
-2015-03-30 22:17:03 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
-2015-03-30 22:17:03 [FINEST] [CDC] Sending event FMLServerAboutToStartEvent to mod CDC
-2015-03-30 22:17:03 [FINEST] [CDC] Sent event FMLServerAboutToStartEvent to mod CDC
-2015-03-30 22:17:04 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@52dcf91b)
-2015-03-30 22:17:04 [FINE] [fml.ItemTracker] The difference set is equal
-2015-03-30 22:17:04 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@52dcf91b)
-2015-03-30 22:17:04 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@52dcf91b)
-2015-03-30 22:17:05 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
-2015-03-30 22:17:05 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
-2015-03-30 22:17:05 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
-2015-03-30 22:17:05 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
-2015-03-30 22:17:05 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
-2015-03-30 22:17:05 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
-2015-03-30 22:17:05 [FINEST] [CDC] Sending event FMLServerStartingEvent to mod CDC
-2015-03-30 22:17:05 [FINEST] [CDC] Sent event FMLServerStartingEvent to mod CDC
-2015-03-30 22:17:05 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
-2015-03-30 22:17:05 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
-2015-03-30 22:17:05 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
-2015-03-30 22:17:05 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
-2015-03-30 22:17:05 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
-2015-03-30 22:17:05 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
-2015-03-30 22:17:05 [FINEST] [CDC] Sending event FMLServerStartedEvent to mod CDC
-2015-03-30 22:17:05 [FINEST] [CDC] Sent event FMLServerStartedEvent to mod CDC
-2015-03-30 22:17:25 [FINEST] [ForgeModLoader] Received valid FML login packet from /1.133.95.208:46083
-2015-03-30 22:17:33 [INFO] [ForgeModLoader] Unloading dimension 1
+2015-04-03 01:38:52 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2015-04-03 01:38:52 [INFO] [ForgeModLoader] Java is OpenJDK 64-Bit Server VM, version 1.7.0_75, running on Linux:amd64:3.16.0-31-generic, installed at /usr/lib/jvm/java-7-openjdk-amd64/jre
+2015-04-03 01:38:52 [FINE] [ForgeModLoader] Java classpath at launch is craftingdead.jar
+2015-04-03 01:38:52 [FINE] [ForgeModLoader] Java library path at launch is /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+2015-04-03 01:38:52 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2015-04-03 01:39:00 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2015-04-03 01:39:00 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+2015-04-03 01:39:00 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2015-04-03 01:39:00 [INFO] [ForgeModLoader] Reading custom logging properties from /home/emmet_mallpup_com/craftingdead_atlanta/config/logging.properties
+2015-04-03 01:39:00 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2015-04-03 01:39:00 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2015-04-03 01:39:01 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2015-04-03 01:39:01 [FINE] [ForgeModLoader] Found a minecraft related file at /home/emmet_mallpup_com/craftingdead_atlanta/craftingdead.jar, examining for mod candidates
+2015-04-03 01:39:01 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/argo-small-3.2.jar
+2015-04-03 01:39:01 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/guava-14.0-rc3.jar
+2015-04-03 01:39:01 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/asm-all-4.1.jar
+2015-04-03 01:39:01 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/bcprov-jdk15on-148.jar
+2015-04-03 01:39:01 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/deobfuscation_data_1.5.2.zip
+2015-04-03 01:39:01 [FINER] [ForgeModLoader] Skipping known library file /home/emmet_mallpup_com/craftingdead_atlanta/lib/scala-library.jar
+2015-04-03 01:39:01 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2015-04-03 01:39:01 [INFO] [ForgeModLoader] Searching /home/emmet_mallpup_com/craftingdead_atlanta/mods for mods
+2015-04-03 01:39:01 [FINE] [ForgeModLoader] Examining file craftingdead.jar for potential mods
+2015-04-03 01:39:01 [FINE] [ForgeModLoader] The mod container craftingdead.jar appears to be missing an mcmod.info file
+2015-04-03 01:39:02 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.f3rullo14.cdc.CDCure
+2015-04-03 01:39:02 [FINEST] [CDC] Parsed dependency info : [] [] []
+2015-04-03 01:39:02 [INFO] [ForgeModLoader] Forge Mod Loader has identified 4 mods to load
+2015-04-03 01:39:02 [FINER] [ForgeModLoader] Received a system property request ''
+2015-04-03 01:39:02 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2015-04-03 01:39:02 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2015-04-03 01:39:02 [FINE] [ForgeModLoader] Reloading logging properties from /home/emmet_mallpup_com/craftingdead_atlanta/config/logging.properties
+2015-04-03 01:39:02 [FINE] [ForgeModLoader] Reloaded logging properties
+2015-04-03 01:39:02 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2015-04-03 01:39:02 [INFO] [mcp] Activating mod mcp
+2015-04-03 01:39:02 [FINE] [FML] Mod Logging channel FML configured at default level.
+2015-04-03 01:39:02 [INFO] [FML] Activating mod FML
+2015-04-03 01:39:02 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2015-04-03 01:39:02 [INFO] [Forge] Activating mod Forge
+2015-04-03 01:39:02 [FINE] [CDC] Enabling mod CDC
+2015-04-03 01:39:02 [FINE] [CDC] Mod Logging channel CDC configured at default level.
+2015-04-03 01:39:02 [INFO] [CDC] Activating mod CDC
+2015-04-03 01:39:02 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2015-04-03 01:39:02 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2015-04-03 01:39:02 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2015-04-03 01:39:02 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2015-04-03 01:39:02 [FINE] [ForgeModLoader] Mod sorting data
+2015-04-03 01:39:02 [FINE] [ForgeModLoader] 	CDC(Crafting Dead:2.0.2): craftingdead.jar ()
+2015-04-03 01:39:02 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2015-04-03 01:39:02 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2015-04-03 01:39:02 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2015-04-03 01:39:02 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2015-04-03 01:39:02 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2015-04-03 01:39:02 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2015-04-03 01:39:02 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2015-04-03 01:39:02 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
+2015-04-03 01:39:03 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2015-04-03 01:39:03 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2015-04-03 01:39:03 [FINEST] [CDC] Sending event FMLConstructionEvent to mod CDC
+2015-04-03 01:39:03 [FINEST] [ForgeModLoader] Testing mod CDC to verify it accepts its own version in a remote connection
+2015-04-03 01:39:03 [FINEST] [ForgeModLoader] The mod CDC accepts its own version (2.0.2)
+2015-04-03 01:39:03 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into CDC
+2015-04-03 01:39:03 [FINEST] [CDC] Sent event FMLConstructionEvent to mod CDC
+2015-04-03 01:39:03 [FINE] [ForgeModLoader] Mod signature data
+2015-04-03 01:39:03 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2015-04-03 01:39:03 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
+2015-04-03 01:39:03 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
+2015-04-03 01:39:03 [FINE] [ForgeModLoader] 	CDC(Crafting Dead:2.0.2): craftingdead.jar (NO VALID CERTIFICATE FOUND)
+2015-04-03 01:39:03 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2015-04-03 01:39:03 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2015-04-03 01:39:03 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2015-04-03 01:39:03 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2015-04-03 01:39:03 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2015-04-03 01:39:03 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2015-04-03 01:39:03 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2015-04-03 01:39:03 [FINEST] [CDC] Sending event FMLPreInitializationEvent to mod CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7756) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7757) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7758) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7759) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7760) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7761) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7762) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7763) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7764) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7765) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7766) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemWireCutter(7767) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7768) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCanOpener(7769) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMeleeWeapon(7770) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemKitBarbedWire(7786) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8256) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8257) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8258) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8259) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8260) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8261) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8262) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAttachment(8263) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8266) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8267) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8268) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8269) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8270) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8271) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8272) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8273) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8274) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8275) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8276) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8277) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8278) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8279) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemAmmo(8280) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8356) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8357) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8358) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8359) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8360) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8361) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8362) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8363) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8364) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8365) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8366) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8367) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGun(8368) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8460) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8461) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8462) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8463) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemHandcuffs(8464) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemHandcuffsKey(8465) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8466) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8467) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8468) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8469) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8470) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemGrenade(8471) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8472) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8473) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemPaintCan(8474) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBloodbagFull(8476) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBloodbag(8477) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBandage(8478) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMedpack(8479) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMorphine(8480) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMorphine(8481) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8482) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemDirtRag(8483) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBandage(8484) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8486) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8487) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8488) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8489) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8496) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8497) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8498) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8499) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8506) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8507) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8508) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemBackpack(8509) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemVest(8526) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemVest(8527) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemVest(8528) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8556) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8557) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCanteenEmpty(8558) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCanteen(8560) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8561) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8562) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8563) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8564) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8565) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8566) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8567) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8568) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8569) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8570) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8571) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8572) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8596) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8597) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8598) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8599) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8600) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8601) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8602) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8603) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8604) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8605) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8606) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8607) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8608) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8609) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemMisc(8610) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8611) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8612) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8613) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemConsumeable(8614) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8656) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8657) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8658) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8659) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8660) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8661) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8662) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8663) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8668) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8669) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8670) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8671) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8672) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8673) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8674) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8675) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8676) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8677) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8678) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemCDArmor(8679) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemClothes(8756) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemClothes(8757) owned by CDC
+2015-04-03 01:39:06 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.items.ItemClothes(8758) owned by CDC
+2015-04-03 01:39:07 [FINEST] [CDC] Sent event FMLPreInitializationEvent to mod CDC
+2015-04-03 01:39:08 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2015-04-03 01:39:08 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2015-04-03 01:39:08 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2015-04-03 01:39:08 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2015-04-03 01:39:08 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2015-04-03 01:39:08 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2015-04-03 01:39:08 [FINEST] [CDC] Sending event FMLInitializationEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity grounditem as CDC.grounditem
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity corpse as CDC.corpse
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity bullet as CDC.bullet
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity supplydrop as CDC.supplydrop
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity grenade as CDC.grenade
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Automatically registered mod CDC entity vehiclebike as CDC.vehiclebike
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1000) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1001) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1002) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1003) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1010) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1011) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1004) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1005) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1006) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1007) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1012) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1013) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1008) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1020) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1025) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1026) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1030) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1031) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1032) owned by CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] Adding item com.f3rullo14.cdc.common.blocks.ItemCDBlock(159) owned by CDC
+2015-04-03 01:39:09 [FINEST] [CDC] Sent event FMLInitializationEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2015-04-03 01:39:09 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2015-04-03 01:39:09 [FINEST] [FML] Sending event IMCEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [FML] Sent event IMCEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2015-04-03 01:39:09 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CDC
+2015-04-03 01:39:09 [FINEST] [CDC] Sending event IMCEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [CDC] Sent event IMCEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [CDC] Sending event FMLPostInitializationEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [CDC] Sent event FMLPostInitializationEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [CDC] Sending event FMLLoadCompleteEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [CDC] Sent event FMLLoadCompleteEvent to mod CDC
+2015-04-03 01:39:09 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 4 mods
+2015-04-03 01:39:09 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2015-04-03 01:39:09 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2015-04-03 01:39:09 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2015-04-03 01:39:09 [FINEST] [CDC] Sending event FMLServerAboutToStartEvent to mod CDC
+2015-04-03 01:39:09 [FINEST] [CDC] Sent event FMLServerAboutToStartEvent to mod CDC
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] The difference set is equal
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] The difference set is equal
+2015-04-03 01:39:09 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@65e921a2)
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] The difference set is equal
+2015-04-03 01:39:09 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@65e921a2)
+2015-04-03 01:39:09 [FINE] [fml.ItemTracker] The difference set is equal
+2015-04-03 01:39:09 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@65e921a2)
+2015-04-03 01:39:10 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2015-04-03 01:39:10 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2015-04-03 01:39:10 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2015-04-03 01:39:10 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2015-04-03 01:39:10 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2015-04-03 01:39:10 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2015-04-03 01:39:10 [FINEST] [CDC] Sending event FMLServerStartingEvent to mod CDC
+2015-04-03 01:39:10 [FINEST] [CDC] Sent event FMLServerStartingEvent to mod CDC
+2015-04-03 01:39:10 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2015-04-03 01:39:10 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2015-04-03 01:39:10 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2015-04-03 01:39:10 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2015-04-03 01:39:10 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2015-04-03 01:39:10 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2015-04-03 01:39:10 [FINEST] [CDC] Sending event FMLServerStartedEvent to mod CDC
+2015-04-03 01:39:10 [FINEST] [CDC] Sent event FMLServerStartedEvent to mod CDC
+2015-04-03 01:39:36 [INFO] [ForgeModLoader] Unloading dimension 1
+2015-04-03 01:39:53 [FINEST] [ForgeModLoader] Received valid FML login packet from /58.6.199.56:57633
